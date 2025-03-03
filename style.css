@@ -27,7 +27,7 @@ main {
         text-align: center;
         & iframe {
             margin-top: 80px;
-            width: 269px;
+            width: 267px;
             height: 470px;
         }
     }
